@@ -1,4 +1,3 @@
-# Cancer-risk-ml
 
 # Cancer Risk Factors Analysis and Prediction
 
