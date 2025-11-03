@@ -52,3 +52,6 @@ Thumbs.db
 
 # Ignore compiled C extensions
 *.so
+
+
+.claude
